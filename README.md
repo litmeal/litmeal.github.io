@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jekyll Serif Theme
 
 Serif is a beautiful small business theme for Jekyll. It contains content types for the archetypical small business website. The theme is fully responsive, blazing fast and artfully illustrated.
@@ -26,3 +27,7 @@ Serif is a beautiful small business theme for Jekyll. It contains content types 
 To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
 
 I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
+=======
+# club
+litmeal.club jekyll page
+>>>>>>> 3a53b8efb39a0f8755739a01330f8916c679f1eb

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Test files
 node_modules
 npm-debug.log
@@ -21,3 +22,6 @@ Thumbs.db
 # Files that might appear on external disks
 .Spotlight-V100
 .Trashes
+=======
+_site/
+>>>>>>> 3a53b8efb39a0f8755739a01330f8916c679f1eb
